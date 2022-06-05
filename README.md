@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pizzadog12
-- 👀 I’m interested in SQL, Python, HTML/CSS & JavaScript
-- 🌱 I’m currently learning the stuff i'm interested in!!!
+- 👋 hi, I’m @pizzadog12
+- 👀 i study data engineering/science and sometimes design web pages
+- 🌱 I’m currently petting my cat
 - 💞️ meow
-- 📫 How to reach me ... good question
+- 📫 hereee or discord (beepbopboop#7633)
 
 <!---
 pizzadog12/pizzadog12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
