@@ -1,5 +1,5 @@
 - 👋 hi, I’m @pizzadog12
-- 👀 i study data engineering/science and sometimes design web pages
+- 👀 i study data science and sometimes design web pages, sometimes tinker with video editing and graphic design
 - 🌱 I’m currently petting my cat
 - 💞️ meow
 - 📫 hereee or discord (beepbopboop#7633)
